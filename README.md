@@ -1,6 +1,6 @@
 # Calendar
 Calendar //day//month//year the Import week day
-1. AUTHER
+1. AUTHOR
 ... HAYK VARDAZARYAN
 ... contact:
 ... phone number:+37477204615
